@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+
+    <string name="default_song">http://www.dre.vanderbilt.edu/~schmidt/braincandy.m4a</string>
+    <string name="play_song">Play</string>
+    <string name="stop_song">Stop</string>
+    <string name="action_settings">Settings</string>
+</resources>
